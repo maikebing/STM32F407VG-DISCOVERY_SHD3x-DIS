@@ -1,4 +1,11 @@
-# STM32F4DISCOVERY 开发板 BSP 说明
+# STM32F4DISCOVERY  和 SHT3x-DIS  
+
+芯片：
+STM32 F407 
+湿度传感器: SHT3x-DIS  
+温度传感器: ADT7422 
+
+https://github.com/CEMDATIC/ADT7422
 
 ## 简介
 
